@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a0ddec1c_da8b7777",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-06-07T13:49:26Z",
+      "side": 1,
+      "message": "This was previously being fixed by the commit that is reverted here https://review.calyxos.org/c/CalyxOS/kernel_google_msm-4.9/+/17584\n\nIn theory it should make no difference to existing behaviour",
+      "revId": "169b5448ff79506525d14e4ee53ebfcc347bb61c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
